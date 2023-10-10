@@ -4,4 +4,3 @@
 
 - 🌱 I’m currently developing in Swift
 - 📫 How to reach me: ergunyunuscengiz@gmail.com
-- 📫 To reach my settings https://gist.github.com/erguncengiz
