@@ -2,8 +2,6 @@
 
 <img src="https://c.tenor.com/p9pPNUHetWIAAAAd/steve-carell-its-britney-bitch.gif" width="500px">
 
-### Hello, I'm Yunus! 👋
-
 I'm a versatile software developer with a passion for mobile application development and game programming. I build projects across different platforms and languages, constantly exploring new technologies.
 
 🚀 **My Expertise & Tech Stack**
